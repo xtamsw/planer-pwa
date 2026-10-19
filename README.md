@@ -4,12 +4,12 @@
 
 **PWA для планирования недели: дела, время, экспорт в календарь — всё офлайн, всё на устройстве**
 
-[![Live Demo](https://img.shields.io/badge/Открыть-PWA-4f8cff?style=for-the-badge&logo=pwa&logoColor=white)](https://stuma467.github.io/planer-pwa/)
-[![Version](https://img.shields.io/badge/version-1.0-7a4dff?style=for-the-badge)](https://github.com/stuma467/planer-pwa/commits/main)
-[![Platform](https://img.shields.io/badge/platform-Web%20%2F%20iOS%20%2F%20Android-3ddc84?style=for-the-badge&logo=apple&logoColor=white)](https://stuma467.github.io/planer-pwa/)
-[![Offline](https://img.shields.io/badge/работает-офлайн-4f8cff?style=for-the-badge)](https://stuma467.github.io/planer-pwa/)
+[![Live Demo](https://img.shields.io/badge/Открыть-PWA-4f8cff?style=for-the-badge&logo=pwa&logoColor=white)](https://xtamsw.github.io/planer-pwa/)
+[![Version](https://img.shields.io/badge/version-1.0-7a4dff?style=for-the-badge)](https://github.com/xtamsw/planer-pwa/commits/main)
+[![Platform](https://img.shields.io/badge/platform-Web%20%2F%20iOS%20%2F%20Android-3ddc84?style=for-the-badge&logo=apple&logoColor=white)](https://xtamsw.github.io/planer-pwa/)
+[![Offline](https://img.shields.io/badge/работает-офлайн-4f8cff?style=for-the-badge)](https://xtamsw.github.io/planer-pwa/)
 
-[🚀 Открыть приложение](https://stuma467.github.io/planer-pwa/) · [💬 Telegram](https://t.me/xtamsw) · [📢 Новости](https://t.me/xtamsw_apk)
+[🚀 Открыть приложение](https://xtamsw.github.io/planer-pwa/) · [💬 Telegram](https://t.me/xtamsw) · [📢 Новости](https://t.me/xtamsw_apk)
 
 </div>
 
@@ -58,7 +58,7 @@
 
 ## 📥 Установка на iPhone
 
-1. Откройте приложение в **Safari**: 👉 [stuma467.github.io/planer-pwa](https://stuma467.github.io/planer-pwa/)
+1. Откройте приложение в **Safari**: 👉 [xtamsw.github.io/planer-pwa](https://xtamsw.github.io/planer-pwa/)
 2. Нажмите **«Поделиться»** → **«На экран Домой»**.
 3. Назовите — например, «Планер» — и добавьте.
 
@@ -66,7 +66,7 @@
 
 ## 📥 Установка на Android
 
-1. Откройте приложение в **Chrome**: 👉 [stuma467.github.io/planer-pwa](https://stuma467.github.io/planer-pwa/)
+1. Откройте приложение в **Chrome**: 👉 [xtamsw.github.io/planer-pwa](https://xtamsw.github.io/planer-pwa/)
 2. Меню ⋮ → **«Установить приложение»** (или «Добавить на главный экран»).
 
 ## 🛠 Технологии
